@@ -11,7 +11,8 @@ body {
 #start-screen,
 #game-screen {
   text-align: center;
-  overflow: hidden;  
+  overflow: hidden;
+  max-width: 100%;  
 }
 
 #game-screen.show {
